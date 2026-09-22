@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taoxiuy.github.io/yingshidaqae/sitemap.xml
